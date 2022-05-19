@@ -1,0 +1,4 @@
+[submodule "modoolar/playground-modoolar-dot-com"]
+	path = modoolar/playground-modoolar-dot-com
+	url = git@github.com:modoolar/playground-modoolar-dot-com.git
+	branch = develop
